@@ -1,8 +1,8 @@
-# WEB102 Prework - *Game Dasboard*
+# WEB102 Prework - *Game Dashboard*
 
 Submitted by: **Pratik Patil**
 
-**Game Dasboard** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Dashboard** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **14** hours spent in total
 
@@ -22,7 +22,7 @@ Here's a walkthrough of implemented features:
 <img src='https://github.com/github-pratik/WEB102_Codepath/blob/main/WEbPrework_codepath.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Canva 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -30,7 +30,8 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+-  Understand the JS components
+-  Getting Secret Keys Code
 
 ## License
 
